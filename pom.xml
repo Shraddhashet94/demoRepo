@@ -31,7 +31,6 @@
 			<name>${env.REL_ART_NAME}</name>
 			<url>${env.REL_ART_URL}</url>
 		</repository>
-
 	</distributionManagement>
 	    <scm>
         <connection>scm:git:git@github.com:${github.account}/demoRepo.git</connection>
