@@ -33,7 +33,6 @@
 		</repository>
 
 	</distributionManagement>
-	
 	    <scm>
         <connection>scm:git:git@github.com:${github.account}/demoRepo.git</connection>
         <developerConnection>scm:git:git@github.com:${github.account}/demoRepo.git</developerConnection>
